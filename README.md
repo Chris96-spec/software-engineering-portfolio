@@ -1,2 +1,3 @@
 # software-engineering-portfolio
-2026 Software Engineer L00177073
+2026 Software Engineer 
+Christos Andrianos/L00177073
